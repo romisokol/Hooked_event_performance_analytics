@@ -1,5 +1,6 @@
 # Databricks notebook source
-file_path = "/Volumes/workspace/default/hooked_data/hooked events - Events.csv"
+file_path = "/Volumes/<catalog>/<schema>/<volume>/hooked_events_sample.csv"
+# Replace this path with the location of your own uploaded CSV file.
 
 print(file_path)
 
