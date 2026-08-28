@@ -60,5 +60,6 @@ This repository only includes the project code and dashboard screenshots.
 ## Files
 
 - `hooked_event_performance_analytics.py`
-- `dashboard.png`
+- `dashboard_bottom.png`
+- `dashboard_top.png`
 - `.gitignore`
