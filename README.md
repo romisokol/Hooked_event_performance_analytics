@@ -53,7 +53,9 @@ This repository only includes the project code and dashboard screenshots.
 
 ## Dashboard
 
-![Hooked Event Performance Dashboard](dashboard.png)
+![Dashboard overview](dashboard_top.png)
+
+![Monthly trends](dashboard_bottom.png)
 
 ## Files
 
